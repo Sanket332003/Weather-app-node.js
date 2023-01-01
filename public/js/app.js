@@ -1,4 +1,3 @@
-console.log("Client Side JavaScript File Is Loaded")
 const errorMassage = document.querySelector('.errorMassage');
 const weatherForm = document.querySelector('form')
 const searchForm = document.querySelector('input')
